@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Seyoung!
 
-I’m a **Business Intelligence Analyst** with more than a year of experience using data manipulation frameworks, dashboarding tools, and reporting as a means of turning complex data into *clear and actionable insights*.  
-With my **B.S. in Statistics**, I value a solid analytical foundation for the data analysis process--from checking the integrity and accuracy of the data itself, weighing the pros and cons of various analytical stratgies for the most authentic insights, and visualizing these insights for stakeholders to understand the overall story-- all while making sure that the main goal is at the forefront of the entire process.
+I’m a **Business Intelligence Analyst** with more than a year of experience using data manipulation frameworks, dashboarding tools, and data reporting to stakeholders.
+
+I value a solid analytical foundation for the data analysis process--from checking the integrity and accuracy of the data itself, weighing the pros and cons of various analytical stratgies for the most authentic insights, and visualizing these insights for stakeholders to understand the overall story-- all while making sure that the main goal is at the forefront of the entire process.
 
 ---
 
