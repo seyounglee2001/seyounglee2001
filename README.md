@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I’m Seyoung!
 
-<!--
-**seyounglee2001/seyounglee2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Business Intelligence Analyst** with more than a year of experience using data manipulation frameworks, dashboarding tools, and reporting as a means of turning complex data into *clear and actionable insights*.  
+With my **B.S. in Statistics**, I value a solid analytical foundation for the data analysis process--from checking the integrity and accuracy of the data itself, weighing the pros and cons of various analytical stratgies for the most authentic insights, and visualizing these insights for stakeholders to understand the overall story-- all while making sure that the main goal is at the forefront of the entire process.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools  
+
+**Programming Languages**  
+- SQL, SQL Server  
+- R Programming  
+- Python  
+- DAX  
+- Power Query  
+- PowerShell  
+
+**Tools & Frameworks**  
+- Microsoft Excel  
+- Power BI (API Integration, R/Python scripting)  
+- SQL Server Reporting Services (SSRS)  
+- Power Automate  
+- Azure DevOps  
+- SharePoint Management  
+- Visual Studio Code  
+
+**Statistical Analysis Skills**  
+- Regression Analysis  
+- Exploratory Data Analysis (EDA)  
+- Correlational Analysis  
+- Statistical Inference  
+
+---
+
+## 📊 My Approach  
+**Data is only as valuable as the story it tells**. I make sure my analysis delivers:
+- **Clarity** – breaking down complex findings into simple, digestible visuals  
+- **Relevance** – focusing on what matters most to stakeholders  
+- **Action** – always ending with a clear recommendation  
+
