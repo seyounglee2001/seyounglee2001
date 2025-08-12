@@ -9,21 +9,28 @@ I value a solid analytical foundation for the data analysis process--from checki
 ## 🛠 Skills & Tools  
 
 👩🏻‍💻 **Programming Languages**  
-- SQL, SQL Server  
+- SQL 
 - R Programming  
 - Python  
-- DAX  
-- Power Query  
-- PowerShell  
+- DAX
+- VBA
+- PowerShell
 
 📝 **Tools & Frameworks**  
-- Microsoft Excel  
-- Power BI (API Integration, R/Python scripting)  
+- Microsoft Excel
+- Microsoft SQL Server Management Studio
 - SQL Server Reporting Services (SSRS)  
-- Power Automate  
+- R Studio
+- Visual Studio Code  
+- Power Automate
+- Power Query  
 - Azure DevOps  
 - SharePoint Management  
-- Visual Studio Code  
+
+🖼️ **Dashboarding & Data Visualization**  
+- Power BI
+  - API Integration, R and Python scripting
+- Tableau
 
 📈 **Statistical Analysis Skills**  
 - Regression Analysis  
