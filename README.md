@@ -12,9 +12,13 @@ I value a solid analytical foundation for the data analysis process--from checki
 - SQL 
 - R Programming  
 - Python  
-- DAX
-- VBA
 - PowerShell
+
+🖼️ **Dashboarding & Data Visualization**  
+- Power BI
+  - API Integration, R and Python scripting
+  - DAX
+- Tableau
 
 📝 **Tools & Frameworks**  
 - Microsoft Excel
@@ -26,11 +30,6 @@ I value a solid analytical foundation for the data analysis process--from checki
 - Power Query  
 - Azure DevOps  
 - SharePoint Management  
-
-🖼️ **Dashboarding & Data Visualization**  
-- Power BI
-  - API Integration, R and Python scripting
-- Tableau
 
 📈 **Statistical Analysis Skills**  
 - Regression Analysis  
