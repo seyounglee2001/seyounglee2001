@@ -8,7 +8,7 @@ I value a solid analytical foundation for the data analysis process--from checki
 
 ## 🛠 Skills & Tools  
 
-**Programming Languages**  
+👩🏻‍💻 **Programming Languages**  
 - SQL, SQL Server  
 - R Programming  
 - Python  
@@ -16,7 +16,7 @@ I value a solid analytical foundation for the data analysis process--from checki
 - Power Query  
 - PowerShell  
 
-**Tools & Frameworks**  
+📝 **Tools & Frameworks**  
 - Microsoft Excel  
 - Power BI (API Integration, R/Python scripting)  
 - SQL Server Reporting Services (SSRS)  
@@ -25,7 +25,7 @@ I value a solid analytical foundation for the data analysis process--from checki
 - SharePoint Management  
 - Visual Studio Code  
 
-**Statistical Analysis Skills**  
+📈 **Statistical Analysis Skills**  
 - Regression Analysis  
 - Exploratory Data Analysis (EDA)  
 - Correlational Analysis  
