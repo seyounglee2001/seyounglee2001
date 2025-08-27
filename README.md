@@ -28,13 +28,13 @@ I value a solid analytical foundation for the data analysis process--from checki
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" style="height:28px"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" style="height:28px"/>
-  <img src="https://img.shields.io/badge/SSRS-264478?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSRS" style="height:28px"/>
+  <img src="https://img.shields.io/badge/SSRS-264478?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Reporting Services" style="height:28px"/>
   <img src="https://img.shields.io/badge/R%20Studio-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Studio" style="height:28px"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="height:28px"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-094AB2?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate" style="height:28px"/>
-  <img src="https://img.shields.io/badge/Power%20Query-0099E5?style=for-the-badge&logo=microsoft-powerquery&logoColor=white" alt="Power Query" style="height:28px"/>
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" style="height:28px"/>
-  <img src="https://img.shields.io/badge/SharePoint-0078D7?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="SharePoint" style="height:28px"/>
+  <img src="https://img.shields.io/badge/SharePoint-0078D7?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="Microsoft SharePoint" style="height:28px"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-094AB2?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Microsoft Power Automate" style="height:28px"/>
+  <img src="https://img.shields.io/badge/Power%20Query-0099E5?style=for-the-badge&logo=microsoft-powerquery&logoColor=white" alt="Microsoft Power Query" style="height:28px"/>
 </p>
 
 
