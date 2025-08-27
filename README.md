@@ -10,10 +10,10 @@ I value a solid analytical foundation for the data analysis process--from checki
 
 👩🏻‍💻 **Programming Languages**  
 <p>
-  <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" alt="SQL"/>
+  <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=fff" alt="SQL"/>
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" alt="R Programming"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
-  <img alt="PowerShell Gallery Version" src="https://img.shields.io/powershellgallery/v/:packageName">
+  <img src="https://img.shields.io/powershellgallery/v/:packageName" alt="PowerShell">
 </p>
 
 🖼️ **Dashboarding & Data Visualization**
