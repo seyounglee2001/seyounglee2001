@@ -13,7 +13,7 @@ I value a solid analytical foundation for the data analysis process--from checki
   <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=fff" alt="SQL"/>
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" alt="R Programming"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
-  <img src="https://img.shields.io/powershellgallery/v/:packageName" alt="PowerShell">
+  <img src="https://img.shields.io/badge/PowerShell-003B57?style=flat&logo=gnome-terminal&logoColor=white" alt="PowerShell">
 </p>
 
 🖼️ **Dashboarding & Data Visualization**
@@ -26,16 +26,17 @@ I value a solid analytical foundation for the data analysis process--from checki
 📝 **Tools & Frameworks**
 
 <p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/SSRS-264478?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server Reporting Services"/>
-  <img src="https://img.shields.io/badge/R%20Studio-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Studio"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-094AB2?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Microsoft Power Automate"/>
-  <img src="https://img.shields.io/badge/Power%20Query-0099E5?style=for-the-badge&logo=microsoft-powerquery&logoColor=white" alt="Microsoft Power Query"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" alt="Azure DevOps"/>
-  <img src="https://img.shields.io/badge/SharePoint-0078D7?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="Microsoft SharePoint"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" style="height:28px"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" style="height:28px"/>
+  <img src="https://img.shields.io/badge/SSRS-264478?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSRS" style="height:28px"/>
+  <img src="https://img.shields.io/badge/R%20Studio-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Studio" style="height:28px"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="height:28px"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-094AB2?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate" style="height:28px"/>
+  <img src="https://img.shields.io/badge/Power%20Query-0099E5?style=for-the-badge&logo=microsoft-powerquery&logoColor=white" alt="Power Query" style="height:28px"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" style="height:28px"/>
+  <img src="https://img.shields.io/badge/SharePoint-0078D7?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="SharePoint" style="height:28px"/>
 </p>
+
 
 📈 **Statistical Analysis Skills**
 
