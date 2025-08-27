@@ -34,7 +34,7 @@ I value a solid analytical foundation for the data analysis process--from checki
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Power%20Automate-094AB2?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate"/>
   <img src="https://img.shields.io/badge/Power%20Query-0099E5?style=for-the-badge&logo=microsoft-powerquery&logoColor=white" alt="Power Query"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=microsoft-azure-devops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/SharePoint-0078D7?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="SharePoint"/>
 </p>
 
