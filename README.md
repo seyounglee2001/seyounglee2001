@@ -9,10 +9,12 @@ I value a solid analytical foundation for the data analysis process--from checki
 ## 🛠 Skills & Tools  
 
 👩🏻‍💻 **Programming Languages**  
-- SQL 
-- R Programming  
-- Python  
-- PowerShell
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
 
 🖼️ **Dashboarding & Data Visualization**  
 - Power BI
