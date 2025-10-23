@@ -45,9 +45,3 @@ I value a solid analytical foundation for the data analysis process--from checki
 
 ---
 
-## 📊 My Approach  
-**Data is only as valuable as the story it tells**. I make sure my analysis delivers:
-- **Clarity** – breaking down complex findings into simple, digestible visuals  
-- **Relevance** – focusing on what matters most to stakeholders  
-- **Action** – always ending with a clear recommendation  
-
