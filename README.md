@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Seyoung!
 
-I’m a **Business Intelligence Analyst** with 1.5 years of experience in data manipulation frameworks, dashboarding tools, and insights reporting to stakeholders.
+I am currently pursuing a **master’s in Data Science at Columbia University**, where I focus on how AI can be integrated into healthcare workflows to support better clinical decision-making. My interest in this field grew from hands-on experience working with sensitive clinical data, giving me firsthand insight into how data-driven insights and the systems behind them can directly shape patient outcomes. Through the DSI Scholars program, I am currently researching indications of cognitive impairment in organ transplant recipients at NewYork-Presbyterian Hospital.
 
-I value a solid analytical foundation for the data analysis process--from checking the integrity and accuracy of the data itself, weighing the pros and cons of various analytical stratgies for the most authentic insights, and visualizing these insights for stakeholders to understand the overall story-- all while making sure that the main goal is at the forefront of the entire process.
+Looking ahead, I hope to apply what I’m learning in the classroom to real-world healthcare initiatives that create meaningful impact. My personal experiences have shaped a deep appreciation for holistic health and a love for running, hiking, and the outdoors, and this mindset carries into how I approach my work at the intersection of technology and healthcare.
 
 ---
 
