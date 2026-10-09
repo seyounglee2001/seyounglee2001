@@ -1,9 +1,5 @@
 # 👋 Hi, I’m Seyoung!
 
-I am currently pursuing a **master’s in Data Science at Columbia University**, where I focus on how AI can be integrated into healthcare workflows to support better clinical decision-making. My interest in this field grew from hands-on experience working with sensitive clinical data, giving me firsthand insight into how data-driven insights and the systems behind them can directly shape patient outcomes. Through the DSI Scholars program, I am currently researching indications of cognitive impairment in organ transplant recipients at NewYork-Presbyterian Hospital.
-
-Looking ahead, I hope to apply what I’m learning in the classroom to real-world healthcare initiatives that create meaningful impact. My personal experiences have shaped a deep appreciation for holistic health and a love for running, hiking, and the outdoors, and this mindset carries into how I approach my work at the intersection of technology and healthcare.
-
 ---
 
 ## 🛠 Skills & Tools
