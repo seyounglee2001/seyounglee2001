@@ -37,11 +37,9 @@ Committed to advancing AI innovation and translating it into real-world applicat
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" style="height:28px"/>
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" style="height:28px"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height:28px"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="height:28px"/>
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="SharePoint" style="height:28px"/>
   <img src="https://img.shields.io/badge/API%20Integration-6E4C9E?style=for-the-badge&logoColor=white" alt="API Integration" style="height:28px"/>
-  <img src="https://img.shields.io/badge/Database%20Design-336791?style=for-the-badge&logoColor=white" alt="Database Design" style="height:28px"/>
 </p>
 
 ---
