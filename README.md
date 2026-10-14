@@ -6,17 +6,7 @@ Committed to advancing AI innovation and translating it into real-world applicat
 
 ### 🛠 Skills & Tools
 
-🧠 **ML Models & Statistical Methods**
-<p>
-  <img src="https://img.shields.io/badge/Logistic%20Regression-4B8BBE?style=flat" alt="Logistic Regression"/>
-  <img src="https://img.shields.io/badge/LASSO%20Feature%20Selection-4B8BBE?style=flat" alt="LASSO"/>
-  <img src="https://img.shields.io/badge/Linear%20Regression-4B8BBE?style=flat" alt="Linear Regression"/>
-  <img src="https://img.shields.io/badge/Generalized%20Additive%20Models-4B8BBE?style=flat" alt="GAM"/>
-  <img src="https://img.shields.io/badge/Recommendation%20Models-4B8BBE?style=flat" alt="Recommendation Models"/>
-  <img src="https://img.shields.io/badge/Time%20Series-4B8BBE?style=flat" alt="Time Series"/>
-  <img src="https://img.shields.io/badge/Hypothesis%20Testing-4B8BBE?style=flat" alt="Hypothesis Testing"/>
-  <img src="https://img.shields.io/badge/Sentiment%20Analysis-4B8BBE?style=flat" alt="Sentiment Analysis"/>
-</p>
+🧠 **ML Methods**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
