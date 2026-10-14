@@ -2,7 +2,7 @@
 ---
 Current Data Science M.S. student at Columbia University and researcher at NewYork-Presbyterian Hospital. Always open to connecting; feel free to reach me at sl6081@columbia.edu!
 
-Committed to advancing AI innovation and translating it into real-world applications. My work centers on healthcare analytics: developing production-ready predictive models with clinical and biomedical data, building robust dashboards and reports that drive real decision-making, and designing and maintaining reliable data infrastructure (ETL pipelines, SQL data warehouses, and performance tuning) using best practices in database design.
+Committed to advancing AI innovation and translating it into real-world applications. My work centers on healthcare analytics: developing production-ready predictive models with clinical and biomedical data, building robust dashboards and reports that drive real decision-making, and designing and maintaining reliable data infrastructure using best practices in database design.
 
 ### 🛠 Skills & Tools
 
