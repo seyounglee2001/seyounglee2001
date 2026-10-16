@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Seyoung!
 ---
-Current Data Science M.S. student at Columbia University and researcher at NewYork-Presbyterian Hospital. Always open to connecting; feel free to reach me at sl6081@columbia.edu!
-
-Committed to advancing AI innovation and translating it into real-world applications. My work centers on healthcare analytics: developing production-ready predictive models with clinical and biomedical data, building robust dashboards and reports that drive real decision-making, and designing and maintaining reliable data infrastructure using best practices in database design.
+Data scientist, BI Developer, and Data Engineer based in New York City. Currently pursuing an M.S. in Data Science at Columbia University. I'm always open to connecting; feel free to reach me at sl6081@columbia.edu!
 
 ### 🛠 Skills & Tools
 
