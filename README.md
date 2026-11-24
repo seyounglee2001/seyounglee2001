@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Seyoung!
 ---
-Data scientist, BI Developer, and Data Engineer based in New York City. Currently pursuing an M.S. in Data Science at Columbia University. I'm always open to connecting; feel free to reach me at sl6081@columbia.edu!
+I enjoy turning complex data into clear visual stories that drive decisions, backed by experience in ML implementation, robust database design, and business intelligence. Currently pursuing an M.S. in Data Science at Columbia University. I'm always open to connecting; feel free to reach me at sl6081@columbia.edu!
+
 
 ### 🛠 Skills & Tools
 
